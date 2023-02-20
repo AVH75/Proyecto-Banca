@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="706082a5-df96-41b3-a643-fc14ed24e60f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clients/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/src/main/java/com/nttdata/clients/clients/ClientsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/java/com/nttdata/clients/clients/ClientsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/src/main/java/com/nttdata/clients/clients/Service/ClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/java/com/nttdata/clients/clients/Service/ClientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/src/main/java/com/nttdata/clients/clients/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/java/com/nttdata/clients/clients/controller/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/src/main/java/com/nttdata/clients/clients/model/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/java/com/nttdata/clients/clients/model/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/src/main/java/com/nttdata/clients/clients/model/ClientType.java" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/java/com/nttdata/clients/clients/model/ClientType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/src/main/java/com/nttdata/clients/clients/model/DocumentType.java" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/java/com/nttdata/clients/clients/model/DocumentType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movimient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movimient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movimient/src/main/java/com/nttdata/movimients/MovimientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/movimient/src/main/java/com/nttdata/movimients/MovimientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movimient/src/main/java/com/nttdata/movimients/controller/MovimientsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movimient/src/main/java/com/nttdata/movimients/model/Movimients.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movimient/src/main/java/com/nttdata/movimients/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/movimient/src/main/java/com/nttdata/movimients/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movimient/src/main/java/com/nttdata/movimients/repository/MovimientsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/movimient/src/main/java/com/nttdata/movimients/repository/MovimientsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movimient/src/main/java/com/nttdata/movimients/service/MovientsTypeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/movimient/src/main/java/com/nttdata/movimients/service/MovientsTypeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movimient/src/main/java/com/nttdata/movimients/service/MovimientsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movimient/src/main/java/com/nttdata/movimients/service/MovimientsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movimient/src/main/java/com/nttdata/movimients/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/movimient/src/main/java/com/nttdata/movimients/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movimient/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/products/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/ProductsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/ProductsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/controller/BankAccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/controller/BankAccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/feignClients/MovimentFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/feignClients/MovimentFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/AuditModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/AuditModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/BankAccountHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/BankAccountHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/BankAccountSignatory.java" beforeDir="false" afterPath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/BankAccountSignatory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/BankAccountType.java" beforeDir="false" afterPath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/BankAccountType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/MovementDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/MovementDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/Moviments.java" beforeDir="false" afterPath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/model/Moviments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/service/BankAccountHolderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/service/BankAccountHolderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/service/BankAccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/service/BankAccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/service/BankAccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/service/BankAccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/service/BankAccountSignatoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/products/src/main/java/com/nttdata/products/products/service/BankAccountSignatoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/src/main/resources/application.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Lsv2aaGdEBZEopmRpYe23N49YH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Developer/Desktop/NTTDATA-Project-master/config-service"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="706082a5-df96-41b3-a643-fc14ed24e60f" name="Changes" comment="" />
+      <created>1676672399426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676672399426</updated>
+    </task>
+    <servers />
+  </component>
+</project>
